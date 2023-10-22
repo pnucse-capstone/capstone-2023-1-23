@@ -1,0 +1,26 @@
+# getPoints
+numPoints int 100000
+# removeFloor
+floorPoint int 150
+threshold float 0.1
+axis int 2
+# pointsClustering
+groupSize int 500
+RANSACloop int 1000
+RANSACSampleSize int 20
+inlierDis float 0.06
+mergeDis float 0.06
+minInlier int 300
+edgeDis float 0.06
+removeSize int 100
+checkAxisNeighbors int 20
+minPlanePoints int 8000
+# getRectangles
+numSampleLine int 1
+RANSACloop int 300
+n int 2
+inlierDis float 0.05
+edgeWidth float 0.03
+# mergeRectangles
+linePointsDis float 0.23
+limitNormalAngle float 30
