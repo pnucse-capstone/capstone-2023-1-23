@@ -64,18 +64,24 @@ pip install matlab matlabengine
 4번으로 선택 시 최종 결과 fig 및 결과 텍스트 파일이 result 폴더에 저장된다.
 
 #### Unity 시각화 프로그램 
-해당 프로그램은 Unity 2021.3.20f1을 사용하였다. 
+해당 프로그램은 KartLiDAR_23_build.zip을 다운받아 사용할 수 있다.
 
-1. 오브젝트 MapBuilder의 Inspector에서 MapBuilder 스크립트의 값을 편집한다.
+1. 다운로드 후 압축을 풀고 KartLiDAR_23.exe를 실행한다.
 
-    File Name: 파일 경로와 이름
+![시작 화면](https://github.com/pnucse-capstone/capstone-2023-1-23/assets/114997956/ede1e939-0f63-4073-80fb-f3ff1e50c437)
+2. 3개의 입력란을 채운다.
+2.1 file Name: 파일 경로/파일이름.txt
+    (example1.txt, example2.txt, example3.txt를 입력하면 예시 파일을 볼 수 있다.)
+2.2 wall thickness: 벽 두께
+2.3 scale constant: 스케일 조절
 
-    Wall Thickness: 벽 두께
+3. BUILD 버튼을 누른다.
 
-    Range To Exclude: 장애물 점 분리를 위해 벽으로부터 완전히 제외시킬 범위
+![메인 화면1](https://github.com/pnucse-capstone/capstone-2023-1-23/assets/114997956/1f05940b-0d54-4591-8f83-d16ff636404b)
+![메인 화면2](https://github.com/pnucse-capstone/capstone-2023-1-23/assets/114997956/59ecc7a6-33db-4f7c-ae30-4605ca442318)
+4. 오른쪽 아래의 OFF/ON 버튼을 누르면 장애물을 숨기고/나타낼 수 있다.
+   키보드로 방향키로 카메라의 위치와 각도를, 마우스 스크롤로 확대와 축소를 조절할 수 있다.
+   
+5. 이전 화면으로 돌아가려면 왼쪽 위의 ← 버튼을 누른다.
 
-    Scale Constant: 스케일 조절
-
-2. Play mode를 시작한다.
-3. Game view에서 OFF, ON 버튼을 눌러 장애물을 숨기거나 나타낼 수 있다.
-키보드로 카메라의 위치와 각도, 마우스 스크롤로 확대와 축소를 조절할 수 있다.
+6. 프로그램을 종료하려면 esc 키를 누른다.
