@@ -1,0 +1,529 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698140975842836, "dur":673, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975843512, "dur":33, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1698140975843552, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1698140975843563, "dur":1852, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1698140975845517, "dur":265, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975845782, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999297, "dur":206, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999503, "dur":30, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999534, "dur":100, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999634, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999642, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999643, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999647, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999648, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999653, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999655, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999661, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999663, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999667, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999669, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999674, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999675, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999680, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999681, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999686, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999687, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999691, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999692, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999698, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999699, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999703, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999705, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999710, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999711, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140975999715, "dur":345, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000060, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000076, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000078, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000081, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000082, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000086, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000087, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000091, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000093, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000096, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000097, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000102, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000117, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976000132, "dur":879, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698140975843868, "dur":1920, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975845790, "dur":2294, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975848089, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698140975848091, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975848160, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698140975848163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975848545, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698140975849832, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975849931, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975849955, "dur":6256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975856235, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975856257, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975856261, "dur":2429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975858709, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975858725, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975858728, "dur":2450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975861205, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975861254, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975861257, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975863325, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975863340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975863344, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975865533, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975865547, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975865549, "dur":2362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975867931, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975867947, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975867950, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975870226, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975870253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975870257, "dur":1505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975871782, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975871807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975871809, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975872845, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975872859, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975872862, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975874620, "dur":66297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975940919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698140975940924, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698140975941531, "dur":57717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975843995, "dur":1796, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975845791, "dur":2297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975848089, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1698140975848216, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975850397, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1698140975853247, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975853309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975853473, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975856297, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975856368, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975856373, "dur":2378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975858765, "dur":57148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975915915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698140975915919, "dur":418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698140975916347, "dur":82976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975844019, "dur":1778, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975845797, "dur":2288, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975848090, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698140975848222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975850335, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698140975851865, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23.exe" }}
+,{ "pid":12345, "tid":3, "ts":1698140975851920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975851926, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23.exe" }}
+,{ "pid":12345, "tid":3, "ts":1698140975854137, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975854163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975854167, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975857259, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975857331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975857335, "dur":2134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975859483, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975859499, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975859501, "dur":2227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975861754, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975861790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975861793, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975863938, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975863965, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975863970, "dur":2267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975866252, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975866299, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975866302, "dur":1979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975868293, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975868315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975868318, "dur":1755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975870086, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975870111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975870133, "dur":2435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975872596, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975872628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975872649, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975874853, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Plugins/x86_64/OpenCvSharpExtern.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975874871, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698140975875226, "dur":13232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Plugins/x86_64/OpenCvSharpExtern.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698140975888480, "dur":110820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975844037, "dur":1767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975845804, "dur":2436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975848241, "dur":281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698140975848524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975850576, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698140975853573, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975853608, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975853921, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975856862, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975856883, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975856887, "dur":2443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975859356, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975859384, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975859388, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975861672, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975861702, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975861707, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975864095, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975864125, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975864129, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975866375, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975866410, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975866414, "dur":2833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975869271, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975869301, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975869307, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975870668, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975870698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975870703, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975872555, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975872584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975872590, "dur":1415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975874031, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975874062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975874068, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698140975875203, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1698140975875230, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975875277, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1698140975876275, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1698140975876362, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975876367, "dur":677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1698140975877057, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975877072, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975877077, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975878290, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975878324, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975878331, "dur":1078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975879437, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975879463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975879469, "dur":819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698140975880309, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698140975880337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975880344, "dur":987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698140975881356, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1698140975881444, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698140975881448, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1698140975882311, "dur":116991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698140975844106, "dur":1703, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698140975845809, "dur":2332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698140975848141, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1698140975848255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698140975910479, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1698140975911454, "dur":87824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975844129, "dur":1684, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975845814, "dur":2420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975848235, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1698140975848544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975850592, "dur":3021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1698140975853662, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975853711, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975854055, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975857422, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975857448, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975857452, "dur":2434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975859912, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975859945, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975859950, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975862403, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975862432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975862436, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975864870, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975864897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975864902, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975867489, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975867517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975867521, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975869812, "dur":128583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975998398, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698140975998404, "dur":748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698140975999166, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1698140975999167, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975844148, "dur":1670, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975845818, "dur":2268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975848089, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698140975848185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975850644, "dur":2450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698140975853143, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975853206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975853469, "dur":2519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975856037, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975856087, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975856095, "dur":2644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975858784, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975858812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975858815, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975860992, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975861021, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975861026, "dur":2104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975863156, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975863187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975863192, "dur":2174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975865378, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975865394, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975865396, "dur":2338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975867759, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975867787, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975867791, "dur":2324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975870141, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975870171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975870177, "dur":1406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975871607, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975871636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975871643, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975872688, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975872718, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975872722, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975874123, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975874150, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975874154, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698140975877215, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698140975877230, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698140975877232, "dur":5988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698140975883237, "dur":116055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698140975844180, "dur":1640, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698140975845820, "dur":2426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698140975848246, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1698140975848303, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698140975914975, "dur":485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1698140975915472, "dur":83749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975844279, "dur":1544, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975845823, "dur":2413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975848236, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1698140975848506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975850413, "dur":1957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1698140975852426, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975852486, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975853319, "dur":2283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975855642, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975855698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975855735, "dur":2829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975858588, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975858618, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975858623, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975860793, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975860821, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975860826, "dur":1982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975862833, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975862862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975862867, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975864960, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975864973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975864976, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975867390, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975867433, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975867438, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975869845, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975869873, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975869878, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975871136, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975871161, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975871165, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975872329, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975872356, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975872360, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975873152, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975873178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975873182, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975874443, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975874468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975874472, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698140975875840, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1698140975875867, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975875871, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1698140975877054, "dur":1307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1698140975878364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975878370, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1698140975879266, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1698140975879294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975879300, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1698140975880291, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1698140975880322, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975880327, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1698140975881302, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1698140975881331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698140975881337, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1698140975882078, "dur":117216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698140975844395, "dur":1431, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698140975845826, "dur":2428, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698140975848254, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1698140975848306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698140975918722, "dur":646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1698140975919383, "dur":79867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975844495, "dur":1333, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975845828, "dur":2456, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975848285, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975848411, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975849410, "dur":1199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975850644, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975850695, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975850706, "dur":13098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975863820, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975863834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975863837, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975865678, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975865698, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975865700, "dur":2285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975867998, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975868013, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975868015, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975870223, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975870239, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975870242, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975871655, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975871684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975871701, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975872597, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975872615, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975872617, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975874094, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975874113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975874117, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875324, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875340, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875342, "dur":590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875948, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698140975875982, "dur":7493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698140975883490, "dur":115801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975844600, "dur":1231, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975845831, "dur":2305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975848137, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1698140975848218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975850654, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1698140975851874, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1698140975851959, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975852804, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1698140975858398, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975858427, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975858430, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975860289, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975860306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975860309, "dur":1887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975862208, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975862221, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975862224, "dur":2132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975864369, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975864432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975864444, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975866829, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975866845, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975866847, "dur":2032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975868890, "dur":42863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975911755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698140975911759, "dur":498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698140975912268, "dur":86984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975844709, "dur":1124, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975845833, "dur":2281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975848114, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1698140975848217, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975850398, "dur":2999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1698140975853445, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975853499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975853897, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975856771, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975856800, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975856804, "dur":2338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975859153, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975859177, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975859180, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975861475, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975861492, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975861495, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975863340, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975863354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975863365, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975865355, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975865368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975865371, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975867600, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975867615, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975867618, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975869695, "dur":36663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975906360, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698140975906364, "dur":494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698140975906868, "dur":92391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975844804, "dur":1032, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975845836, "dur":2394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975848230, "dur":409, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1698140975848641, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975850592, "dur":2975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1698140975853624, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975853669, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975854016, "dur":3108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975857150, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975857183, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975857187, "dur":2494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975859716, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975859762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975859767, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975861874, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975861911, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975861916, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975864159, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975864178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975864181, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975866712, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975866740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975866744, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975868782, "dur":59921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975928706, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698140975928712, "dur":614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698140975929338, "dur":69920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698140975844916, "dur":925, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698140975845841, "dur":2386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698140975848228, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1698140975848349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698140975918992, "dur":466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1698140975919472, "dur":79840, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698140975845035, "dur":811, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698140975845846, "dur":2380, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698140975848238, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1698140975848295, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698140975910651, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1698140975911798, "dur":87443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1698140975845131, "dur":720, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1698140975845852, "dur":2261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1698140975848113, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1698140975848301, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1698140975914791, "dur":574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1698140975915379, "dur":83872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1698140975845224, "dur":633, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1698140975845857, "dur":2336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1698140975848195, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":18, "ts":1698140975848246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1698140975910327, "dur":696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":18, "ts":1698140975911043, "dur":88240, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975845332, "dur":529, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975845861, "dur":2257, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975848120, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":19, "ts":1698140975848228, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975850429, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":19, "ts":1698140975851763, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":19, "ts":1698140975851838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975851842, "dur":3357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":19, "ts":1698140975855244, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975855297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975855303, "dur":2867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975858183, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975858214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975858217, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975860009, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975860025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975860028, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975862149, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975862168, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975862171, "dur":2180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975864365, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975864381, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975864436, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975866685, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975866702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975866705, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975868713, "dur":36599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975905316, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1698140975905323, "dur":602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/KartLiDAR_23_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":19, "ts":1698140975905936, "dur":93348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1698140975845441, "dur":422, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1698140975845863, "dur":2313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1698140975848179, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1698140975848237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1698140975910187, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yejin/Documents/Unity/KartLiDAR_23_build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1698140975910998, "dur":88300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698140976001611, "dur":937, "ph":"X", "name": "ProfilerWriteOutput" }
+,
