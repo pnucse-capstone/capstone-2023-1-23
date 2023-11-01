@@ -37,7 +37,7 @@ Raspberry Pi에서는 PC의 rospy와 TCP 통신을 진행하고, 센서 값과 �
 
 ### 4. 소개 및 시연 영상
 
-[![유튜브 영상](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLqE)
+[![유튜브 영상](http://img.youtube.com/vi/_DUv0jyv7Tc/0.jpg)](https://www.youtube.com/watch?v=_DUv0jyv7Tc)
 
 ### 5. 설치 및 사용법
 
